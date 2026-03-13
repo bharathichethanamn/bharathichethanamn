@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋 I'm Bharathi Chethana M N</h1>
-
-<h3 align="center">🚀 Aspiring Full Stack Developer | AI & Data Science Student</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Full+Stack+Developer;AI+%26+Data+Science+Student;DSA+Problem+Solver;Building+Real+World+Projects">
-</p>
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=200&section=header&text=Bharathi%20Chethana%20M%20N&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
