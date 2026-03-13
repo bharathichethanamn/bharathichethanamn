@@ -10,12 +10,6 @@
 
 ---
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
-</p>
-
----
-
 # 👨‍💻 About Me
 
 🎓 B.Tech AI & Data Science Student  
@@ -25,11 +19,21 @@
 
 🧠 Solved **150+ LeetCode problems**  
 🏆 Solved **1000+ Skillrack problems**
-## 🚀 Tech Stack
+
+🚀 Interested in:
+
+- Full Stack Development
+- Data Science
+- Machine Learning
+- System Design
+
+---
+
+# 🚀 Tech Stack
 
 ### 💻 Programming Languages
 
-<p align="left">
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
@@ -41,13 +45,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
 </p>
 
-C++ &nbsp;&nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp; Java &nbsp;&nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp;&nbsp; SQL
+C++ &nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp; Java &nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp; SQL
 
 ---
 
 ### 🌐 Frontend
 
-<p align="left">
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
@@ -57,51 +61,53 @@ C++ &nbsp;&nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp; Java &nbsp;&nbsp;&n
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55"/>
 </p>
 
-HTML &nbsp;&nbsp;&nbsp;&nbsp; CSS &nbsp;&nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp;&nbsp; Flask &nbsp;&nbsp;&nbsp;&nbsp; Streamlit
+HTML &nbsp;&nbsp;&nbsp; CSS &nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp; Flask &nbsp;&nbsp;&nbsp; Streamlit
 
 ---
 
 ### ⚙️ Backend
 
-<p align="left">
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55"/>
 </p>
 
-Node.js &nbsp;&nbsp;&nbsp;&nbsp; Express.js
+Node.js &nbsp;&nbsp;&nbsp; Express.js
 
 ---
 
 ### 🗄 Database
 
-<p align="left">
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
 </p>
 
-MongoDB &nbsp;&nbsp;&nbsp;&nbsp; MySQL
+MongoDB &nbsp;&nbsp;&nbsp; MySQL
 
 ---
 
 ### 📊 Data Science & Machine Learning
 
-<p align="left">
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55"/>
 </p>
 
-Pandas &nbsp;&nbsp;&nbsp;&nbsp; NumPy &nbsp;&nbsp;&nbsp;&nbsp; Scikit-learn &nbsp;&nbsp;&nbsp;&nbsp; Matplotlib &nbsp;&nbsp;&nbsp;&nbsp; NLP
+Pandas &nbsp;&nbsp;&nbsp; NumPy &nbsp;&nbsp;&nbsp; Scikit-learn &nbsp;&nbsp;&nbsp; Matplotlib &nbsp;&nbsp;&nbsp; NLP
 
 ---
 
 ### 🛠 Tools
 
-<p align="left">
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
@@ -109,18 +115,41 @@ Pandas &nbsp;&nbsp;&nbsp;&nbsp; NumPy &nbsp;&nbsp;&nbsp;&nbsp; Scikit-learn &nbs
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
 </p>
 
-Git &nbsp;&nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp;&nbsp; PowerBI &nbsp;&nbsp;&nbsp;&nbsp; Tableau &nbsp;&nbsp;&nbsp;&nbsp; Excel &nbsp;&nbsp;&nbsp;&nbsp; Vercel &nbsp;&nbsp;&nbsp;&nbsp; Render
+Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; PowerBI &nbsp;&nbsp;&nbsp; Tableau &nbsp;&nbsp;&nbsp; Excel &nbsp;&nbsp;&nbsp; Vercel &nbsp;&nbsp;&nbsp; Render
 
-# 🔥 Top Languages
+---
+
+# 📂 Featured Projects
+
+🚀 **Shift Master – Employee Shift Scheduling Portal**
+
+🤝 **PeerTutor Matchmaker**
+
+🏙 **SmartCity Pulse – Urban Analytics Dashboard**
+
+🌍 **Climate Temperature Trend Analysis**
+
+🏛 **Civic Issue Reporting System**
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathichethanamn&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bharathichethanamn&show_icons=true&theme=tokyonight"/>
 
 </p>
 
 ---
 
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathichethanamn&theme=tokyonight"/>
+
+</p>
 
 ---
 
