@@ -28,13 +28,69 @@
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,react,nodejs,express,mongodb,mysql,pandas,numpy,git,github,vscode"/>
-
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp" width="45"/>
+<img src="https://skillicons.dev/icons?i=python" width="45"/>
+<img src="https://skillicons.dev/icons?i=java" width="45"/>
+<img src="https://skillicons.dev/icons?i=c" width="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
 </p>
+
+C++ • Python • Java • C • SQL
+
+---
+
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html" width="45"/>
+<img src="https://skillicons.dev/icons?i=css" width="45"/>
+<img src="https://skillicons.dev/icons?i=react" width="45"/>
+</p>
+
+HTML • CSS • React • Streamlit • Flask
+
+---
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
+<img src="https://skillicons.dev/icons?i=express" width="45"/>
+</p>
+
+Node.js • Express
+
+---
+
+### 🗄 Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+</p>
+
+MongoDB • MySQL
+
+---
+
+### 📊 Data Science & ML
+<p>
+<img src="https://skillicons.dev/icons?i=python" width="45"/>
+</p>
+
+Pandas • NumPy • Matplotlib • Scikit-learn • NLP
+
+---
+
+### 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git" width="45"/>
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="45"/>
+</p>
+
+Git • GitHub • VS Code • PowerBI • Tableau • Excel • Vercel • Render
 
 ---
 
@@ -74,9 +130,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/bharathichethanamn/bharathichethanamn/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
