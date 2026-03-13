@@ -1,60 +1,96 @@
 <h1 align="center">Hi 👋 I'm Bharathi Chethana M N</h1>
 
-<h3 align="center">🚀 Aspiring Full Stack Developer</h3>
+<h3 align="center">🚀 Aspiring Full Stack Developer | AI & Data Science Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Problem+Solver;Learning+DSA+%26+Web+Development;Building+Cool+Projects">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Full+Stack+Developer;AI+%26+Data+Science+Student;DSA+Problem+Solver;Building+Real+World+Projects">
+</p>
+
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Engineering Student  
-💻 Passionate about **Full Stack Development**  
-📚 Currently learning **DSA, Web Development, and Data Visualization**
+🎓 B.Tech AI & Data Science Student  
+🏫 Sri Eshwar College of Engineering  
+
+💻 MERN Stack Developer Intern  
+
+🧠 Solved **150+ LeetCode problems**  
+🏆 Solved **1000+ Skillrack problems**
 
 ---
 
-## 🚀 Skills
+# 🚀 Skills
 
-🐍 Python  
-⚙️ C++  
-🌐 HTML  
-🎨 CSS  
-🧠 JavaScript  
-📊 Pandas  
-🔢 NumPy  
-📈 Matplotlib  
-⚡ Streamlit  
+### 💻 Programming
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
 
 ---
 
-## 📂 Projects
-
-📅 **Shift Schedule**  
-A system to manage employee shift scheduling efficiently.
-
-🤝 **Peer Tutor Matchmaker**  
-A platform that connects students with peer tutors based on subjects and availability.
-
-🏙 **City Urban Analytics Dashboard**  
-Interactive dashboard to analyze urban data and city metrics.
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 
 ---
 
-## 📊 GitHub Stats
-
-![Bharathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharathichethanamn&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathichethanamn&layout=compact&theme=tokyonight)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
 
 ---
 
-## 👀 Profile Views
+### 🗄 Database
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+---
+
+# 📂 Featured Projects
+
+🏙 **SmartCity Pulse – Urban Analytics Dashboard**
+
+🤝 **PeerTutor Matchmaker**
+
+📅 **Shift Master – Employee Shift Scheduling Portal**
+
+🌍 **Climate Temperature Trend Analysis**
+
+🏛 **Civic Issue Reporting System**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bharathichethanamn&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathichethanamn&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/bharathichethanamn/bharathichethanamn/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 👀 Profile Views
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=bharathichethanamn&color=blue)
