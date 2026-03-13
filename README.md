@@ -16,13 +16,12 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech AI & Data Science Student  
-🏫 Sri Eshwar College of Engineering  
 
-💻 MERN Stack Developer Intern  
-
-🧠 Solved **150+ LeetCode problems**  
-🏆 Solved **1000+ Skillrack problems**
+- 🎓 B.Tech in **AI & Data Science** @ Sri Eshwar College of Engineering  
+- 💻 MERN Stack Developer Intern | Building scalable web apps  
+- 🧠 Solved **150+ LeetCode** & **1000+ Skillrack** problems  
+- 🌱 Exploring **Explainable AI** & **Gamified Dashboards**  
+- ⚡ Fun fact: I love turning complex problems into simple, elegant solutions
 
 ---
 
