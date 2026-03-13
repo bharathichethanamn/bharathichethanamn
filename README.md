@@ -84,10 +84,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/bharathichethanamn/bharathichethanamn/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 # 👀 Profile Views
