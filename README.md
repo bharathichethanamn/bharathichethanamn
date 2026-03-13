@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/bharathichethanamn/bharathichethanamn/blob/main/assets/banner.png" alt="Bharathi Chethana M N Banner"/>
+</p>
+
 <h1 align="center">Hi 👋 I'm Bharathi Chethana M N</h1>
 <h3 align="center">🚀 Full Stack Developer | AI & Data Science Enthusiast | Problem Solver</h3>
 
