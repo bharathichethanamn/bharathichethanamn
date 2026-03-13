@@ -27,87 +27,78 @@
 🏆 Solved **1000+ Skillrack problems**
 
 ---
-
 ## 🚀 Tech Stack
 
 ### 💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp" width="45"/>
-<img src="https://skillicons.dev/icons?i=python" width="45"/>
-<img src="https://skillicons.dev/icons?i=java" width="45"/>
-<img src="https://skillicons.dev/icons?i=c" width="45"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp" width="60"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" width="60"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="60"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=c" width="60"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="60"/>
 </p>
 
-C++ • Python • Java • C • SQL
+C++ &nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp; Java &nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp; SQL
 
 ---
 
 ### 🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html" width="45"/>
-<img src="https://skillicons.dev/icons?i=css" width="45"/>
-<img src="https://skillicons.dev/icons?i=react" width="45"/>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html" width="60"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="60"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" width="60"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flask" width="60"/>
 </p>
 
-HTML • CSS • React • Streamlit • Flask
+HTML &nbsp;&nbsp;&nbsp; CSS &nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp; Flask &nbsp;&nbsp;&nbsp; Streamlit
 
 ---
 
 ### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
-<img src="https://skillicons.dev/icons?i=express" width="45"/>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs" width="60"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" width="60"/>
 </p>
 
-Node.js • Express
+Node.js &nbsp;&nbsp;&nbsp; Express.js
 
 ---
 
 ### 🗄 Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb" width="60"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="60"/>
 </p>
 
-MongoDB • MySQL
+MongoDB &nbsp;&nbsp;&nbsp; MySQL
 
 ---
 
-### 📊 Data Science & ML
-<p>
-<img src="https://skillicons.dev/icons?i=python" width="45"/>
+### 📊 Data Science & Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" width="60"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=numpy" width="60"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=pandas" width="60"/>
 </p>
 
-Pandas • NumPy • Matplotlib • Scikit-learn • NLP
+Pandas &nbsp;&nbsp;&nbsp; NumPy &nbsp;&nbsp;&nbsp; Matplotlib &nbsp;&nbsp;&nbsp; Scikit-learn &nbsp;&nbsp;&nbsp; NLP
 
 ---
 
 ### 🛠 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git" width="45"/>
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="45"/>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git" width="60"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="60"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="60"/>
 </p>
 
-Git • GitHub • VS Code • PowerBI • Tableau • Excel • Vercel • Render
-
----
-
-# 📂 Featured Projects
-
-🚀 **Shift Master – Employee Shift Scheduling Portal**
-
-🤝 **PeerTutor Matchmaker**
-
-🏙 **SmartCity Pulse – Urban Analytics Dashboard**
-
-🌍 **Climate Temperature Trend Analysis**
-
-🏛 **Civic Issue Reporting System**
-
----
-
+Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; PowerBI &nbsp;&nbsp;&nbsp; Tableau &nbsp;&nbsp;&nbsp; Excel &nbsp;&nbsp;&nbsp; Vercel &nbsp;&nbsp;&nbsp; Render
 # 📊 GitHub Stats
 
 <p align="center">
