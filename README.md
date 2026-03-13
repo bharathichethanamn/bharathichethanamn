@@ -25,91 +25,91 @@
 
 🧠 Solved **150+ LeetCode problems**  
 🏆 Solved **1000+ Skillrack problems**
-
----
 ## 🚀 Tech Stack
 
 ### 💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp" width="60"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" width="60"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" width="60"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=c" width="60"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
 </p>
 
-C++ &nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp; Java &nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp; SQL
+C++ &nbsp;&nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp; Java &nbsp;&nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp;&nbsp; SQL
 
 ---
 
 ### 🌐 Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html" width="60"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="60"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react" width="60"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=flask" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55"/>
 </p>
 
-HTML &nbsp;&nbsp;&nbsp; CSS &nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp; Flask &nbsp;&nbsp;&nbsp; Streamlit
+HTML &nbsp;&nbsp;&nbsp;&nbsp; CSS &nbsp;&nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp;&nbsp; Flask &nbsp;&nbsp;&nbsp;&nbsp; Streamlit
 
 ---
 
 ### ⚙️ Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs" width="60"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55"/>
 </p>
 
-Node.js &nbsp;&nbsp;&nbsp; Express.js
+Node.js &nbsp;&nbsp;&nbsp;&nbsp; Express.js
 
 ---
 
 ### 🗄 Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb" width="60"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
 </p>
 
-MongoDB &nbsp;&nbsp;&nbsp; MySQL
+MongoDB &nbsp;&nbsp;&nbsp;&nbsp; MySQL
 
 ---
 
 ### 📊 Data Science & Machine Learning
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python" width="60"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=numpy" width="60"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=pandas" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55"/>
 </p>
 
-Pandas &nbsp;&nbsp;&nbsp; NumPy &nbsp;&nbsp;&nbsp; Matplotlib &nbsp;&nbsp;&nbsp; Scikit-learn &nbsp;&nbsp;&nbsp; NLP
+Pandas &nbsp;&nbsp;&nbsp;&nbsp; NumPy &nbsp;&nbsp;&nbsp;&nbsp; Scikit-learn &nbsp;&nbsp;&nbsp;&nbsp; Matplotlib &nbsp;&nbsp;&nbsp;&nbsp; NLP
 
 ---
 
 ### 🛠 Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git" width="60"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="60"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
 </p>
 
-Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; PowerBI &nbsp;&nbsp;&nbsp; Tableau &nbsp;&nbsp;&nbsp; Excel &nbsp;&nbsp;&nbsp; Vercel &nbsp;&nbsp;&nbsp; Render
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bharathichethanamn&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathichethanamn&theme=tokyonight"/>
-
-</p>
-
----
+Git &nbsp;&nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp;&nbsp; PowerBI &nbsp;&nbsp;&nbsp;&nbsp; Tableau &nbsp;&nbsp;&nbsp;&nbsp; Excel &nbsp;&nbsp;&nbsp;&nbsp; Vercel &nbsp;&nbsp;&nbsp;&nbsp; Render
 
 # 🔥 Top Languages
 
