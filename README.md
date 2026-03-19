@@ -70,7 +70,7 @@
 # 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/bharathichethanamn?theme=dark&font=baloo&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/bharathichethana?theme=dark&font=baloo&ext=heatmap"/>
 </p>
 
 # 📊 GitHub Stats
