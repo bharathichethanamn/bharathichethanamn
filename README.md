@@ -67,6 +67,11 @@
 🏛 **Civic Issue Reporting System**
 
 ---
+# 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap"/>
+</p>
 
 # 📊 GitHub Stats
 
